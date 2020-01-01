@@ -1,0 +1,17 @@
+{
+  "name": "joi-crazy-date",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "private": true,
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "@hapi/joi": "^16.1.8",
+    "moment-timezone": "^0.5.27"
+  }
+}
